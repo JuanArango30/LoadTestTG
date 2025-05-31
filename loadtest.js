@@ -13,7 +13,11 @@ const PREGUNTAS = [
   '¿Que es la matricula financiera?',
   '¿Que es un crédito académico?',
   '¿Que es un curso electivo?',
-  '¿Cuales materias se ven en el primer semestre de ingeniería de sistemas?'
+  '¿Cuales materias se ven en el primer semestre de ingeniería de sistemas?',
+  '¿Cuales son los derechos y deberes de los estudiantes?',
+  '¿Que es un examen de validación?',
+  '¿Cuales son las caracteristicas generales del programa academico de ingeniería de sistemas?',
+  '¿Que nivel de inglés se requiere para graduarse?'
 ];
 const CONCURRENCY = 2;
 const TOTAL_USERS = 10;
